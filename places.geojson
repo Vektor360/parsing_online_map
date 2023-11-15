@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Троицкая библиотека № 1 им. Михайловых",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3068238,
+          55.4868511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Троицкая библиотека №2",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2962149,
+          55.469026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biblioteka",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.407248,
+          55.417097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnopakhorskaya Biblioteka",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2732343,
+          55.4304431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biblioteka",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3718136,
+          55.52234869999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Детская Библиотека № 6",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4839716,
+          55.4247512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Библиотека № 8",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.48541989999999,
+          55.4235331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Library №3",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.50151,
+          55.42551340000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "№ 3 Библиотека Детская",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5054488,
+          55.42559730000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biblioteka Erino",
+        "type": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5211176,
+          55.4493048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Scientists",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2950871,
+          55.47593699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usad'ba Shchapovo",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.405653,
+          55.41686759999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Музей \"Физическая кунсткамера\"",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.29528669999999,
+          55.47615649999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Federal'nyy Muzey Professional'nogo Obrazovaniya",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.521356,
+          55.434686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzey Molochnykh Izdeliy",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3280986,
+          55.44685560000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rayskiy Bereg",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3349396,
+          55.4363893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mauk",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.304764,
+          55.474403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Organnyy Zal",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4068433,
+          55.41945819999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Munitsipal'nyy Muzey Istorii Usad'by Shchapovo",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4072208,
+          55.4171008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pushchinskiy Muzey Ekologii I Krayevedeniya",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.30227359999999,
+          55.48913229999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troitskiy Muzey",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.29953289999999,
+          55.491932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alleya",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3366901,
+          55.50455590000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pol'skoye More",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4513881,
+          55.4034947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bich",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3815426,
+          55.37674260000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yubileyka 11B, Futbol'noye Pole",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.497858,
+          55.4226864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pazobaza",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.39558709999999,
+          55.53904910000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ostafyevo",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.501253,
+          55.4960415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shlyuz",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5024453,
+          55.4952395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabinet Medali",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.50358600000001,
+          55.4942956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devyatovskiy quarry (Silicates)",
+        "type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.524481,
+          55.463704
+        ]
+      }
+    }
+  ]
+}
