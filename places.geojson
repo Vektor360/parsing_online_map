@@ -4,420 +4,3360 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Троицкая библиотека № 1 им. Михайловых",
-        "type": "library"
+        "name": "Pacific Plaza Sakhalin",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.3068238,
-          55.4868511
+          142.7404499,
+          46.95446889999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Троицкая библиотека №2",
-        "type": "library"
+        "name": "Malen'kaya Asia",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.2962149,
-          55.469026
+          142.7372529,
+          46.94092799999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Biblioteka",
-        "type": "library"
+        "name": "Ruslan",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.407248,
-          55.417097
+          142.7308543,
+          46.9581302
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Krasnopakhorskaya Biblioteka",
-        "type": "library"
+        "name": "Opera",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.2732343,
-          55.4304431
+          142.7489989,
+          46.9599063
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Biblioteka",
-        "type": "library"
+        "name": "Barkhat",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.3718136,
-          55.52234869999999
+          142.7758667,
+          46.6285501
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Детская Библиотека № 6",
-        "type": "library"
+        "name": "Antares",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.4839716,
-          55.4247512
+          142.7701758,
+          46.6197367
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Библиотека № 8",
-        "type": "library"
+        "name": "Sumo",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.48541989999999,
-          55.4235331
+          142.7810559,
+          46.62876850000001
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Library №3",
-        "type": "library"
+        "name": "U Rechki",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.50151,
-          55.42551340000001
+          142.8002963,
+          46.6348632
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "№ 3 Библиотека Детская",
-        "type": "library"
+        "name": "Chill out",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.5054488,
-          55.42559730000001
+          142.741966,
+          46.9002879
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Biblioteka Erino",
-        "type": "library"
+        "name": "Seasons",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.5211176,
-          55.4493048
+          142.742145,
+          46.9004287
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "House of Scientists",
-        "type": "museum"
+        "name": "Metro",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.2950871,
-          55.47593699999999
+          142.7344392,
+          46.9591056
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Usad'ba Shchapovo",
-        "type": "museum"
+        "name": "Fodorovka",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.405653,
-          55.41686759999999
+          142.7378997,
+          46.910469
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Музей \"Физическая кунсткамера\"",
-        "type": "museum"
+        "name": "Hunter Park",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.29528669999999,
-          55.47615649999999
+          142.7363007,
+          46.91931599999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Federal'nyy Muzey Professional'nogo Obrazovaniya",
-        "type": "museum"
+        "name": "Gourmet Cafe",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.521356,
-          55.434686
+          142.749109,
+          46.9172339
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Muzey Molochnykh Izdeliy",
-        "type": "museum"
+        "name": "Gorodok",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.3280986,
-          55.44685560000001
+          142.7475376,
+          46.9188171
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Rayskiy Bereg",
-        "type": "museum"
+        "name": "Sakhalin, Kafe",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.3349396,
-          55.4363893
+          142.7337057,
+          46.9367494
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Mauk",
-        "type": "museum"
+        "name": "Daykon",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.304764,
-          55.474403
+          142.7329531,
+          46.927055
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Organnyy Zal",
-        "type": "museum"
+        "name": "Podkova",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.4068433,
-          55.41945819999999
+          142.7492427,
+          46.96380759999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Munitsipal'nyy Muzey Istorii Usad'by Shchapovo",
-        "type": "museum"
+        "name": "Assorti",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.4072208,
-          55.4171008
+          142.7520443,
+          46.93529959999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Pushchinskiy Muzey Ekologii I Krayevedeniya",
-        "type": "museum"
+        "name": "Mel'nitsa",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.30227359999999,
-          55.48913229999999
+          142.7328053,
+          46.9442975
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Troitskiy Muzey",
-        "type": "museum"
+        "name": "Letto",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.29953289999999,
-          55.491932
+          142.7566019,
+          46.9358909
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Alleya",
-        "type": "museum"
+        "name": "Kafe \"Mel'nitsa\"",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.3366901,
-          55.50455590000001
+          142.7524058,
+          46.9392553
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Pol'skoye More",
-        "type": "museum"
+        "name": "Grinkofe",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.4513881,
-          55.4034947
+          142.7455544,
+          46.9436301
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Bich",
-        "type": "museum"
+        "name": "Arkadiya",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.3815426,
-          55.37674260000001
+          142.7340906,
+          46.94878269999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Yubileyka 11B, Futbol'noye Pole",
-        "type": "museum"
+        "name": "Chernaya Koshka",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.497858,
-          55.4226864
+          142.7362817,
+          46.954231
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Pazobaza",
-        "type": "museum"
+        "name": "Parizhskaya Vypechka",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.39558709999999,
-          55.53904910000001
+          142.7530811,
+          46.94324049999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Ostafyevo",
-        "type": "museum"
+        "name": "Coffee Like",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.501253,
-          55.4960415
+          142.731025,
+          46.953151
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Shlyuz",
-        "type": "museum"
+        "name": "Kafe Russkoy Kukhni \"Marusya\"",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.5024453,
-          55.4952395
+          142.7308908,
+          46.9537449
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Kabinet Medali",
-        "type": "museum"
+        "name": "Zorna",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.50358600000001,
-          55.4942956
+          142.7308599,
+          46.9539283
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Devyatovskiy quarry (Silicates)",
-        "type": "museum"
+        "name": "Аромас Лаунж",
+        "type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.524481,
-          55.463704
+          142.740535,
+          46.9542999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulibin",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7319731,
+          46.95881190000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B-7",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7270143,
+          46.9586681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolobok",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7290294,
+          46.9591316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grinkofe",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.733049,
+          46.9576705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good friend",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.727779,
+          46.96038900000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snezhinka",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7334946,
+          46.9583492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smak",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7276685,
+          46.9608241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black & White, Кафе",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7343374,
+          46.95851239999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mario's Pizza",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7226712,
+          46.964008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinnabon, Kafe-Pekarnya",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7257879,
+          46.9634088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mango Six",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.755822,
+          46.951093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rulada",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7269257,
+          46.9636074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granat",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7340117,
+          46.96078809999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Soho",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7422943,
+          46.9590797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arlekin",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.733472,
+          46.96331800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELcafe",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7350311,
+          46.9627304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heroes of the City",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7349624,
+          46.9641313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seli-Poyeli",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.744447,
+          46.9622901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randevu",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7510649,
+          46.9601524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Bar Assorti",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7472245,
+          46.9630761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ethno cafe-restaurant \"Asia Mix\"",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7184897,
+          46.9805878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odzee",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7534065,
+          46.96678310000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yolki",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7535509,
+          46.9671618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "old friend",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7582992,
+          46.9690251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manor Cafe",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7158057,
+          47.0153905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mel'nitsa",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7293261,
+          47.05721519999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kofe Vo",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5210766,
+          46.7184329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kofeynya \"Buf\"",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5222293,
+          46.7197199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uyut",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5205452,
+          46.72173819999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кафе «Кантри»",
+        "type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4813744,
+          46.7826256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzhno-Sakhalinsk",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7284716,
+          46.9640949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Plaza Sakhalin",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7404499,
+          46.95446889999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mira",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7464182,
+          46.9341648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strawberry Hills",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7581364,
+          46.9082095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Resort Hotel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7655556,
+          46.9675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belka Hotel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7413889,
+          46.9608333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Okhota",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7376739,
+          46.9665662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubin",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7365945,
+          46.9505089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imperial Palace",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7442011,
+          46.93397969999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitos",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7518914,
+          46.90473679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turist",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.742676,
+          46.9656759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mega Palace Hotel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7525177,
+          46.9675254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gagarin",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7475891,
+          46.9637184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yubileynaya",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7565756,
+          46.9614019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotos",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.735297,
+          46.9620808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shokolad Hotel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7316893,
+          46.90729229999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guest House Zima",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7554421,
+          46.91920990000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apart65",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7380918,
+          46.93822979999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapporo",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7305557,
+          46.9560679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korsakov",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7830034,
+          46.6355686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartment on Prospekt Pobedy 7",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7555589,
+          46.9510487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natalya",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7360754,
+          46.9568326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CheckPoint",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7569157,
+          46.95458800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komandor Hotel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7327899,
+          46.9670075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inn Sportivnaya",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.758245,
+          46.9532973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Islander Mini - Hotel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7360467,
+          46.9650735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hostel U Iriny",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7496763,
+          46.90928760000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dva Brata Hostel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.698275,
+          46.9616236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzhnyy",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6941926,
+          46.9671928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guest house Gorny",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.768112,
+          46.9516652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Live Box Hostel",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7351278,
+          46.9349691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNS",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7381154,
+          46.967831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Общежитие Учебный центр Сахалинэнерго",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7433469,
+          46.9904087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Asino",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.774048,
+          46.6297392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNS",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7313542,
+          46.9514302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern City",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7413873,
+          46.95628989999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хостел на Сахалинской",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7054309,
+          46.9630205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slap",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.770761,
+          46.61791600000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detskaya Poliklinika",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7747955,
+          46.62842939999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АО \"Корсаковский морской торговый порт\"",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7682915,
+          46.61945779999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dal'elektromontazh, Sakhalinskoye Montazhnoye Upravleniye, Korsakovskiy Uchastok",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7841876,
+          46.6353796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sberbank",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5194898,
+          46.7194843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suvenir-S",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7415324,
+          46.90004709999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post of Russia",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7435525,
+          46.88644009999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATM Savings Bank of Russia",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7846171,
+          46.6354882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Resursy Sakhalina",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6260526,
+          46.9060808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakhalinskaya Tamozhnya, Tamozhennyy Post \"Korsakovskiy\"",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7841876,
+          46.6353796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Severnaya Zvezda",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7842433,
+          46.635296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otdeleniye Pensionnogo Fonda Rf V G. Anive",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5245894,
+          46.7167975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\"Kopirka\"",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5231546,
+          46.717223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsentral'naya Rayonnaya Bol'nitsa",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5232662,
+          46.719688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anivskiy Rayonnyy Sud Sakhalinskoy Oblasti",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5205055,
+          46.7188921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "№ 21 Центральная Районная Аптека",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5248182,
+          46.7167591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsentral'naya Biblioteka Imeni P. N. Romakhina",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5186745,
+          46.7209437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dom Detskogo Tvorchestva",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5225626,
+          46.72130679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sogaz-Med",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5143239,
+          46.7204358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dosaaf",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5209165,
+          46.72154449999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shkola Iskusstv S. Troitskoye",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3677637,
+          46.7395522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stomatologicheskaya Poliklinika",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7841876,
+          46.6353796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "СберБанк",
+        "type": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7792439,
+          46.63084860000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzhno-Sakhalinsk",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7284716,
+          46.9640949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Plaza Sakhalin",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7404499,
+          46.95446889999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mira",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7464182,
+          46.9341648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strawberry Hills",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7581364,
+          46.9082095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Resort Hotel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7655556,
+          46.9675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belka Hotel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7413889,
+          46.9608333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Okhota",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7376739,
+          46.9665662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubin",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7365945,
+          46.9505089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imperial Palace",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7442011,
+          46.93397969999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitos",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7518914,
+          46.90473679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turist",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.742676,
+          46.9656759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mega Palace Hotel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7525177,
+          46.9675254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gagarin",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7475891,
+          46.9637184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yubileynaya",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7565756,
+          46.9614019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotos",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.735297,
+          46.9620808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shokolad Hotel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7316893,
+          46.90729229999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guest House Zima",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7554421,
+          46.91920990000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apart65",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7380918,
+          46.93822979999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapporo",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7305557,
+          46.9560679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korsakov",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7830034,
+          46.6355686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartment on Prospekt Pobedy 7",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7555589,
+          46.9510487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natalya",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7360754,
+          46.9568326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CheckPoint",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7569157,
+          46.95458800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komandor Hotel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7327899,
+          46.9670075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inn Sportivnaya",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.758245,
+          46.9532973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Islander Mini - Hotel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7360467,
+          46.9650735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hostel U Iriny",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7496763,
+          46.90928760000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dva Brata Hostel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.698275,
+          46.9616236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzhnyy",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6941926,
+          46.9671928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guest house Gorny",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.768112,
+          46.9516652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Live Box Hostel",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7351278,
+          46.9349691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNS",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7381154,
+          46.967831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Общежитие Учебный центр Сахалинэнерго",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7433469,
+          46.9904087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Asino",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.774048,
+          46.6297392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNS",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7313542,
+          46.9514302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern City",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7413873,
+          46.95628989999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хостел на Сахалинской",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7054309,
+          46.9630205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slap",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.770761,
+          46.61791600000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detskaya Poliklinika",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7747955,
+          46.62842939999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АО \"Корсаковский морской торговый порт\"",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7682915,
+          46.61945779999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dal'elektromontazh, Sakhalinskoye Montazhnoye Upravleniye, Korsakovskiy Uchastok",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7841876,
+          46.6353796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sberbank",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5194898,
+          46.7194843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suvenir-S",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7415324,
+          46.90004709999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post of Russia",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7435525,
+          46.88644009999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATM Savings Bank of Russia",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7846171,
+          46.6354882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Resursy Sakhalina",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6260526,
+          46.9060808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakhalinskaya Tamozhnya, Tamozhennyy Post \"Korsakovskiy\"",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7841876,
+          46.6353796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Severnaya Zvezda",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7842433,
+          46.635296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otdeleniye Pensionnogo Fonda Rf V G. Anive",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5245894,
+          46.7167975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\"Kopirka\"",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5231546,
+          46.717223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsentral'naya Rayonnaya Bol'nitsa",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5232662,
+          46.719688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anivskiy Rayonnyy Sud Sakhalinskoy Oblasti",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5205055,
+          46.7188921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "№ 21 Центральная Районная Аптека",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5248182,
+          46.7167591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsentral'naya Biblioteka Imeni P. N. Romakhina",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5186745,
+          46.7209437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dom Detskogo Tvorchestva",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5225626,
+          46.72130679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sogaz-Med",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5143239,
+          46.7204358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dosaaf",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5209165,
+          46.72154449999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shkola Iskusstv S. Troitskoye",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3677637,
+          46.7395522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stomatologicheskaya Poliklinika",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7841876,
+          46.6353796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "СберБанк",
+        "type": "restaraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7792439,
+          46.63084860000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Plaza Sakhalin",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7404499,
+          46.95446889999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Okhota",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7376739,
+          46.9665662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubin",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7365945,
+          46.9505089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruslan",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7308543,
+          46.9581302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opera",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7489989,
+          46.9599063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingvin",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7729188,
+          46.62345510000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumo",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7810559,
+          46.62876850000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snowberry",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7416999,
+          46.900492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar \"Evergrin\"",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7581771,
+          46.9081986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bavaria",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73703,
+          46.9411354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Assorti",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7520443,
+          46.93529959999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kentos",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7455498,
+          46.9435692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glazur",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.745126,
+          46.9436042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second wind",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7443342,
+          46.9452709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chippolini",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7357268,
+          46.95148349999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аромас Лаунж",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.740535,
+          46.9542999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trombon",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7353973,
+          46.9567146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good friend",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.727779,
+          46.96038900000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowboy",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7377945,
+          46.9565968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barkod",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7335675,
+          46.9584336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karaoke-Bar",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.722409,
+          46.9631221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Soho",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7422943,
+          46.9590797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traktir Na Khabarovskoy",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7415558,
+          46.96087850000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randevu",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7510649,
+          46.9601524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maestro",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7429046,
+          46.9657287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rider Bar",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7429638,
+          46.9660826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HookahPlace",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7374188,
+          46.97179269999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonzhur",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7206918,
+          46.9803839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millennium",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.768762,
+          46.6432271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agentstvo",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7783579,
+          46.63195169999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lezgistan",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7737351,
+          46.62097319999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prosto Bar",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7778038,
+          46.6231717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fotografii",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7793842,
+          46.62387719999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barni Medvezhonok Pirozhnoye Biskvitnoye S Shokoladnoy Nachinkoy Yandeks",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7865864,
+          46.6338386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sushi-Bar \"Para Palochek\"",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.728802,
+          46.8872941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basta Pilsner",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.744276,
+          46.9018746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gastrobar Alleya",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7421672,
+          46.9079754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craft Beer",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7422944,
+          46.907993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fingerbar",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7267629,
+          46.9343618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germanika",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7349841,
+          46.9348809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MamaCraft",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7384833,
+          46.9353555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dve Zvezdy",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7545228,
+          46.9289128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Искусство есть!",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7511351,
+          46.9312433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingvin",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7359767,
+          46.9401255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "restaurant CRYSTAL",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7402575,
+          46.9410549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berloga",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7446332,
+          46.9404973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leto Karaoke",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7550811,
+          46.9358207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mishka Pab",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.736752,
+          46.95027590000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hive Bar",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7364703,
+          46.9520654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papa's Chilla",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7361824,
+          46.95309839999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox Bar",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7297131,
+          46.9561788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bermuda Triangle",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7172248,
+          46.9628113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar \"Dom Kul'tury\"",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7327967,
+          46.9572617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хинкальная Казбеги",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7188132,
+          46.962996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shirina",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7273884,
+          46.9602148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nevinnyye Shalosti",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7622243,
+          46.94718659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar \"Senso\"",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7568356,
+          46.9519324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NIGHT CLUB \"JARA\"",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7270381,
+          46.96684639999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M-1",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.689343,
+          46.9802596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moosehead",
+        "type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.731742,
+          46.9668801
         ]
       }
     }
